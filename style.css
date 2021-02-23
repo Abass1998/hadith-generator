@@ -151,7 +151,7 @@ align-items: center;
 @media screen and (max-width:450px){
     .show{
         text-align: center;
-        width: 60%;
+        width: 80%;
         line-height: 2;
         margin: auto;
       }
